@@ -11,7 +11,7 @@ We all want experiences that open up opportunities and allow us to grow. However
 - 🌱 I’m currently learning and don't want to stop.
 - 💞️ I’m looking to collaborate on projects related to inclusivity, environment, education, health, games, media, and/or anything interesting.
 - 📫 How to reach me ... 
- - recruit@jeremyplatt.me
+ -- recruit@jeremyplatt.me
  - https://jeremyplatt.me
  - https://codepen.io/jeremyplatt/
  - https://www.linkedin.com/in/jeremy-platt-uxdesign/
