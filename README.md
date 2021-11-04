@@ -4,7 +4,7 @@
 **Inclusive Experience Designer**
 @jeremyplattux
 
-<div style="background:black;">
+<div style=background:black;>
   hi
 </div>
 
