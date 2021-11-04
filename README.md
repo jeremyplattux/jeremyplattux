@@ -1,10 +1,8 @@
-<style>
-  
-  div {
-    background:black;
-  }
-  
-  </style>
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
+
+# Just a few tests with `r fa("font-awesome-logo-full", fill = "forestgreen")`
   
 <img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/jpGitHub-header.jpg" alt="" />
 
