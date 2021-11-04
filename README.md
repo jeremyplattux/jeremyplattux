@@ -1,8 +1,11 @@
 <style>
+  
   div {
     background:black;
   }
+  
   </style>
+  
 <img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/jpGitHub-header.jpg" alt="" />
 
 # Jeremy Platt
