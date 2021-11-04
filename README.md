@@ -4,7 +4,11 @@
 # Jeremy Platt
 **Inclusive Experience Designer**
 @jeremyplattux
-
+```html
+   <div style="background-color:black; color:white;">
+     hi
+</div>
+```
 
 We all want experiences that open up opportunities and allow us to grow. However, we don't always give ourselves the freedom to find them.  Through Design Thinking, teamwork, and a devotion to play; Jeremy Platt applies inclusive UX practices to empower exploration and create possibilities.
 
