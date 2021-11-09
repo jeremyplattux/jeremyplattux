@@ -4,6 +4,8 @@
  <tr border="0px" valign="top">
   <td border="0px" valign="top">
 
+<img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/jeremyplatt-crosshatch.jpg " alt="Jeremy Platt" />
+   
 **Inclusive Experience Designer**
 @jeremyplattux
 
@@ -28,9 +30,7 @@ We all want experiences that open up opportunities and allow us to grow. However
 
    </td>  
  </tr>
-</table>
 
-<table border="0px" valign="top">
  <tr border="0px" valign="top">
   <td border="0px" valign="top">
     
