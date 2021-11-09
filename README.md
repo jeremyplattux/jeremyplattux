@@ -1,13 +1,38 @@
 # <img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/jp-githubheader2021.svg" alt="Jeremy Platt, UX Product Designer: Designing experiences that inspire opportunity and create freedom to grow through play." />
 
+<table border="0px" valign="top">
+ <tr border="0px" valign="top">
+  <td border="0px" valign="top">
+
 **Inclusive Experience Designer**
 @jeremyplattux
 
 We all want experiences that open up opportunities and allow us to grow. However, we don't always give ourselves the freedom to find them.  Through Design Thinking, teamwork, and a devotion to play; Jeremy Platt applies inclusive UX practices to empower exploration and create possibilities.
+   
+   
+   </td>
+    <td border="0px" valign="top">
+
+- 👋 Hi, I’m @jeremyplattux
+- 👀 I’m interested in designing playful experiences that empower people.
+- 🌱 I’m currently learning and don't want to stop.
+- 💞️ I’m looking to collaborate on projects related to inclusivity, environment, education, health, games, media, and/or anything interesting.
+- 📫 How to reach me ... 
+  - recruit@jeremyplatt.me
+  - https://jeremyplatt.me
+  - https://codepen.io/jeremyplatt/
+  - https://www.linkedin.com/in/jeremy-platt-uxdesign/
+  - https://twitter.com/jeremyplatt_ux
+  - https://www.instagram.com/jeremy.platt.ux/ 
+   
+
+   </td>  
+ </tr>
+</table>
 
 <table border="0px" valign="top">
  <tr border="0px" valign="top">
-    <td border="0px" valign="top">
+  <td border="0px" valign="top">
     
 ## Skills
   
@@ -39,43 +64,33 @@ solver, facilitatior, agile, detail focused
    </td>
     <td border="0px" valign="top">
      
-     ## Tools
+## Tools
      
-     ### UX Research
+### UX Research
      
-     google analytics, sheets & forms, usertesting,
+google analytics, sheets & forms, usertesting,
 survey monkey, yougov, doodle, airtable, excel
      
-     ### UX Design
+### UX Design
      
-     adobe cc, xd, sketch, figma, invision
+adobe cc, xd, sketch, figma, invision
      
-     ### Software Engineering
+### Software Engineering
      
-     zeplin, sublime, atom, github, mysql, wordpress,
+zeplin, sublime, atom, github, mysql, wordpress,
 codepen, bootstrap, html5, css3, javascript, php
      
-     ### Flexible Teamwork
+### Flexible Teamwork
      
-     basecamp, asana, jira, trello, slack, miro,
+basecamp, asana, jira, trello, slack, miro,
 mural, dropbox, google drive, notion, zoom
    
 
-   </td>
+   </td>  
  </tr>
 </table>
 
-- 👋 Hi, I’m @jeremyplattux
-- 👀 I’m interested in designing playful experiences that empower people.
-- 🌱 I’m currently learning and don't want to stop.
-- 💞️ I’m looking to collaborate on projects related to inclusivity, environment, education, health, games, media, and/or anything interesting.
-- 📫 How to reach me ... 
-  - recruit@jeremyplatt.me
-  - https://jeremyplatt.me
-  - https://codepen.io/jeremyplatt/
-  - https://www.linkedin.com/in/jeremy-platt-uxdesign/
-  - https://twitter.com/jeremyplatt_ux
-  - https://www.instagram.com/jeremy.platt.ux/ 
+
   
 
 
