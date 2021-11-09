@@ -5,7 +5,7 @@
 
 We all want experiences that open up opportunities and allow us to grow. However, we don't always give ourselves the freedom to find them.  Through Design Thinking, teamwork, and a devotion to play; Jeremy Platt applies inclusive UX practices to empower exploration and create possibilities.
 
-<div width="45%" align="left">
+<div width="45%">
   
 ## Skills
   
@@ -34,7 +34,7 @@ flexible, collaborative, communicative, prob
   
 </div>
 
-<div  width="45%" align="right">
+<div width="45%">
 
   ---
 - 👋 Hi, I’m @jeremyplattux
