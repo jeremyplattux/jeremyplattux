@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/jpGitHub-header.jpg" alt="" />
+<img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/jp-githubheader2021.svg" alt="Jeremy Platt, UX Product Designer: Designing experiences that inspire opportunity and create freedom to grow through play." />
 
 # Jeremy Platt
 **Inclusive Experience Designer**
