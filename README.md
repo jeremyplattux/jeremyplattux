@@ -1,4 +1,4 @@
-#<img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/jp-githubheader2021.svg" alt="Jeremy Platt, UX Product Designer: Designing experiences that inspire opportunity and create freedom to grow through play." />
+# <img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/jp-githubheader2021.svg" alt="Jeremy Platt, UX Product Designer: Designing experiences that inspire opportunity and create freedom to grow through play." />
 
 **Inclusive Experience Designer**
 @jeremyplattux
@@ -6,29 +6,29 @@
 We all want experiences that open up opportunities and allow us to grow. However, we don't always give ourselves the freedom to find them.  Through Design Thinking, teamwork, and a devotion to play; Jeremy Platt applies inclusive UX practices to empower exploration and create possibilities.
 
 <div style="float:left;">
-##Skills
+## Skills
   
-  ###UX Research
+  ### UX Research
   
   interviewing, surveying, usability testing, analysis,
 heuristic evaluation, a/b testing, affinity mapping
   
-  ###UX Writing
+  ### UX Writing
 
   personas, journey mapping, user flows, seo, ia,
 content strategy, copy writing, accessiblity
 
-  ###UX Design
+  ### UX Design
 
   design sprints, wire framing, layout design, ui,
 component library, material design, style guide
 
-  ###UX Engineering
+  ### UX Engineering
 
   user flow mapping, responsive & interaction
 design, rapid prototyping, developer hand-off
 
-  ###HCD Teamwork
+  ### HCD Teamwork
 flexible, collaborative, communicative, prob
   
 </div>
