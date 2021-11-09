@@ -6,15 +6,15 @@
 We all want experiences that open up opportunities and allow us to grow. However, we don't always give ourselves the freedom to find them.  Through Design Thinking, teamwork, and a devotion to play; Jeremy Platt applies inclusive UX practices to empower exploration and create possibilities.
 
 <table border="0">
- <tr>
-    <td>
+ <tr  border="0">
+    <td border="0">
    
    </td>
-    <td>
+    <td border="0">
    
    </td>
  </tr>
- <tr>
+ <tr border="0">
     <td>
     
 ## Skills
@@ -43,9 +43,8 @@ design, rapid prototyping, developer hand-off
 flexible, collaborative, communicative, prob
    
    </td>
-    <td>
+    <td border="0">
    
-  ---
 - 👋 Hi, I’m @jeremyplattux
 - 👀 I’m interested in designing playful experiences that empower people.
 - 🌱 I’m currently learning and don't want to stop.
