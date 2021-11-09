@@ -32,11 +32,39 @@ component library, material design, style guide
 design, rapid prototyping, developer hand-off
 
   ### HCD Teamwork
-flexible, collaborative, communicative, prob
+     
+flexible, collaborative, communicative, problem
+solver, facilitatior, agile, detail focused 
    
    </td>
     <td border="0px" valign="top">
+     
+    ## Tools
+
+     ### UX Research
+
+     google analytics, sheets & forms, usertesting,
+survey monkey, yougov, doodle, airtable, excel
+
+     ### UX Design
+
+     adobe cc, xd, sketch, figma, invision
+
+    ### Software Engineering
+     
+zeplin, sublime, atom, github, mysql, wordpress,
+codepen, bootstrap, html5, css3, javascript, php
+
+     ### Flexible Teamwork
+     
+basecamp, asana, jira, trello, slack, miro,
+mural, dropbox, google drive, notion, zoom
    
+
+   </td>
+ </tr>
+</table>
+
 - 👋 Hi, I’m @jeremyplattux
 - 👀 I’m interested in designing playful experiences that empower people.
 - 🌱 I’m currently learning and don't want to stop.
@@ -49,11 +77,6 @@ flexible, collaborative, communicative, prob
   - https://twitter.com/jeremyplatt_ux
   - https://www.instagram.com/jeremy.platt.ux/ 
   
-
-   </td>
- </tr>
-</table>
-
 
 
 
