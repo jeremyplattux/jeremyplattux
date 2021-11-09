@@ -92,7 +92,7 @@ mural, dropbox, google drive, notion, zoom
 
 
   
-
+[<img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/jp-githubfooter.svg" alt="https://jeremyplatt.me" />](https://jeremyplatt.me)
 
 
 
