@@ -39,25 +39,25 @@ solver, facilitatior, agile, detail focused
    </td>
     <td border="0px" valign="top">
      
-    ## Tools
-
+     ## Tools
+     
      ### UX Research
-
+     
      google analytics, sheets & forms, usertesting,
 survey monkey, yougov, doodle, airtable, excel
-
-     ### UX Design
-
-     adobe cc, xd, sketch, figma, invision
-
-    ### Software Engineering
      
-zeplin, sublime, atom, github, mysql, wordpress,
+     ### UX Design
+     
+     adobe cc, xd, sketch, figma, invision
+     
+     ### Software Engineering
+     
+     zeplin, sublime, atom, github, mysql, wordpress,
 codepen, bootstrap, html5, css3, javascript, php
-
+     
      ### Flexible Teamwork
      
-basecamp, asana, jira, trello, slack, miro,
+     basecamp, asana, jira, trello, slack, miro,
 mural, dropbox, google drive, notion, zoom
    
 
