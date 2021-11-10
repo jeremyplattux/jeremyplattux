@@ -34,7 +34,7 @@ We all want experiences that open up opportunities and allow us to grow. However
  <tr border="0px" valign="top">
   <td border="0px" valign="top">
     
-## Skills
+## <img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/skills.svg" alt="Skills" />
   
   ### UX Research
   
