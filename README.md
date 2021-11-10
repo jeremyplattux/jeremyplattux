@@ -49,7 +49,7 @@ content strategy, copy writing, accessiblity
   ### UX Design
 
   design sprints, wire framing, layout design, ui,
-component library, material design, style guide
+component library, material design, design system
 
   ### UX Engineering
 
