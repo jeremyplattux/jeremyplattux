@@ -64,7 +64,7 @@ solver, facilitatior, agile, detail focused
    </td>
     <td border="0px" valign="top">
      
-## Tools
+## <img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/tools.svg" width="120px" alt="Tools" />
      
 ### UX Research
      
