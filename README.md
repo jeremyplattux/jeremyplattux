@@ -36,7 +36,7 @@ We all want experiences that open up opportunities and allow us to grow. However
     
 ## <img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/skills.svg" width="120px" alt="Skills" />
   
-  ### UX Research
+  ### <img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/uxresearch.svg" width="120px" alt="UX Research" />
   
   interviewing, surveying, usability testing, analysis,
 heuristic evaluation, a/b testing, affinity mapping
