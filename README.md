@@ -56,7 +56,7 @@ component library, material design, design system
   user flow mapping, responsive & interaction
 design, rapid prototyping, developer hand-off
 
-  ### <img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/hcdteamwork.svg" width="150px" alt="UX HCD Teamwork" />
+  ### <img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/hcdteamwork.svg" width="150px" alt="HCD Teamwork" />
      
 flexible, collaborative, communicative, problem
 solver, facilitatior, agile, detail focused 
@@ -80,7 +80,7 @@ adobe cc, xd, sketch, figma, invision
 zeplin, sublime, atom, github, mysql, wordpress,
 codepen, bootstrap, html5, css3, javascript, php
      
-### Flexible Teamwork
+### <img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/flexibleteamwork.svg" width="200px" alt="Flexible Teamwork" />
      
 basecamp, asana, jira, trello, slack, miro,
 mural, dropbox, google drive, notion, zoom
