@@ -41,7 +41,7 @@ We all want experiences that open up opportunities and allow us to grow. However
   interviewing, surveying, usability testing, analysis,
 heuristic evaluation, a/b testing, affinity mapping
   
-  ### UX Writing
+  ### <img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/uxwriting.svg" width="108px" alt="UX Writing" />
 
   personas, journey mapping, user flows, seo, ia,
 content strategy, copy writing, accessiblity
