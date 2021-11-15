@@ -80,7 +80,7 @@ adobe cc, xd, sketch, figma, invision
 zeplin, sublime, atom, github, mysql, wordpress,
 codepen, bootstrap, html5, css3, javascript, php
      
-### <img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/flexibleteamwork.svg" width="180px" alt="Flexible Teamwork" />
+### <img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/flexibleteamwork.svg" width="190px" alt="Flexible Teamwork" />
      
 basecamp, asana, jira, trello, slack, miro,
 mural, dropbox, google drive, notion, zoom
