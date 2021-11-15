@@ -51,7 +51,7 @@ content strategy, copy writing, accessiblity
   design sprints, wire framing, layout design, ui,
 component library, material design, design system
 
-  ### <img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/uxengineering.svg" width="220px" alt="UX Engineering" />
+  ### <img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/uxengineering.svg" width="204px" alt="UX Engineering" />
 
   user flow mapping, responsive & interaction
 design, rapid prototyping, developer hand-off
@@ -75,7 +75,7 @@ survey monkey, yougov, doodle, airtable, excel
      
 adobe cc, xd, sketch, figma, invision
      
-### <img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/uxengineering.svg" width="220px" alt="UX Engineering" />
+### <img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/uxengineering.svg" width="204px" alt="UX Engineering" />
      
 zeplin, sublime, atom, github, mysql, wordpress,
 codepen, bootstrap, html5, css3, javascript, php
