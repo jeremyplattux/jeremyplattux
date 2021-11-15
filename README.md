@@ -56,7 +56,7 @@ component library, material design, design system
   user flow mapping, responsive & interaction
 design, rapid prototyping, developer hand-off
 
-  ### HCD Teamwork
+  ### <img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/hcdteamwork.svg" width="150px" alt="UX HCD Teamwork" />
      
 flexible, collaborative, communicative, problem
 solver, facilitatior, agile, detail focused 
