@@ -46,7 +46,7 @@ heuristic evaluation, a/b testing, affinity mapping
   personas, journey mapping, user flows, seo, ia,
 content strategy, copy writing, accessiblity
 
-  ### <img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/uxdesign.svg" width="90px" alt="UX Design" />
+  ### <img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/uxdesign.svg" width="95px" alt="UX Design" />
 
   design sprints, wire framing, layout design, ui,
 component library, material design, design system
@@ -71,7 +71,7 @@ solver, facilitatior, agile, detail focused
 google analytics, sheets & forms, usertesting,
 survey monkey, yougov, doodle, airtable, excel
      
-### <img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/uxdesign.svg" width="90px" alt="UX Design" />
+### <img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/uxdesign.svg" width="95px" alt="UX Design" />
      
 adobe cc, xd, sketch, figma, invision
      
