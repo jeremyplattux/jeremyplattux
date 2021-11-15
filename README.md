@@ -66,7 +66,7 @@ solver, facilitatior, agile, detail focused
      
 ## <img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/tools.svg" width="120px" alt="Tools" />
      
-### UX Research
+### <img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/uxresearch.svg" width="120px" alt="UX Research" />
      
 google analytics, sheets & forms, usertesting,
 survey monkey, yougov, doodle, airtable, excel
