@@ -75,7 +75,7 @@ survey monkey, yougov, doodle, airtable, excel
      
 adobe cc, xd, sketch, figma, invision
      
-### Software Engineering
+### <img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/uxengineering.svg" width="210px" alt="UX Design" />
      
 zeplin, sublime, atom, github, mysql, wordpress,
 codepen, bootstrap, html5, css3, javascript, php
