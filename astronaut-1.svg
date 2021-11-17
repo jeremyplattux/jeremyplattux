@@ -1,4 +1,4 @@
-<svg width="150" height="150" viewBox="0 0 150 150" fill="none" xmlns="http://www.w3.org/2000/svg" style="width: 350px; height: 350px; transform: rotateY(180deg);"><style>
+<svg width="350" height="350" viewBox="0 0 350 350" role="img" fill="none" xmlns="http://www.w3.org/2000/svg" style="width: 350px; height: 350px; transform: rotateY(180deg);"><title>Astronaut Floating in Space</title><style>
      .astronaut1-man {animation:astronaut1-man 4s infinite;}
      @keyframes astronaut1-man {
          0%{transform: translate3d(0, -8px, 0);}
