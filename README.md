@@ -4,7 +4,7 @@
  <tr border="0px" valign="top">
   <td border="0px" valign="top">
 
-<img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/jeremyplatt-crosshatched.jpg " alt="Jeremy Platt" />
+<img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/astronaut-1.svg" alt="Jeremy Platt" />
    
 **Inclusive Experience Designer**
 @jeremyplattux
