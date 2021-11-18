@@ -27,6 +27,7 @@ We all want experiences that open up opportunities and allow us to grow. However
   - https://twitter.com/jeremyplatt_ux
   - https://www.instagram.com/jeremy.platt.ux/ 
    
+<img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/svggithub.svg" width="100%" alt="Designing together" />
 
    </td>  
  </tr>
