@@ -42,7 +42,7 @@ We all want experiences that open up opportunities and allow us to grow. However
   interviewing, surveying, usability testing, analysis,
 heuristic evaluation, a/b testing, affinity mapping
   
-  ### <img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/uxwriting.svg" width="108px" alt="UX Writing" />
+  ### <img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/uxwriting.svg" width="98px" alt="UX Writing" />
 
   personas, journey mapping, user flows, seo, ia,
 content strategy, copy writing, accessiblity
@@ -52,7 +52,7 @@ content strategy, copy writing, accessiblity
   design sprints, wire framing, layout design, ui,
 component library, material design, design system
 
-  ### <img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/uxengineering.svg" width="150px" alt="UX Engineering" />
+  ### <img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/uxengineering.svg" width="140px" alt="UX Engineering" />
 
   user flow mapping, responsive & interaction
 design, rapid prototyping, developer hand-off
@@ -76,12 +76,12 @@ survey monkey, yougov, doodle, airtable, excel
      
 adobe cc, xd, sketch, figma, invision
      
-### <img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/uxengineering.svg" width="150px" alt="UX Engineering" />
+### <img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/uxengineering.svg" width="140px" alt="UX Engineering" />
      
 zeplin, sublime, atom, github, mysql, wordpress,
 codepen, bootstrap, html5, css3, javascript, php
      
-### <img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/flexibleteamwork.svg" width="190px" alt="Flexible Teamwork" />
+### <img src="https://raw.githubusercontent.com/jeremyplattux/jeremyplattux/main/flexibleteamwork.svg" width="180px" alt="Flexible Teamwork" />
      
 basecamp, asana, jira, trello, slack, miro,
 mural, dropbox, google drive, notion, zoom
